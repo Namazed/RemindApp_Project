@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RemindApp_Project</string>
+    <string name="search_title">Search</string>
+    <string name="menu_item_notification">Notification</string>
+    <string name="navigation_open">Open</string>
+    <string name="navigation_close">Close</string>
 </resources>
