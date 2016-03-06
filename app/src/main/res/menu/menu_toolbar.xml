@@ -5,7 +5,7 @@
         android:title="@string/search_title"
         android:orderInCategory="1"
         app:showAsAction="always"
-        android:icon="@android:drawable/ic_menu_search"
+        android:icon="@drawable/ic_search_24dp"
         />
 
 </menu>
